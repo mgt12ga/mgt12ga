@@ -97,4 +97,19 @@ input {
     padding: 8px;
 }
 
+#disc{
+    position:absolute;
+   bottom:0;
+   opacity: 50%;
+   height:60px;   /* Height of the footer */
+   
+   display: flex; align-items: center; justify-content: center; width: 100%; border: "
+}
 
+#tttt{
+    position: relative;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    color: red;
+    
+}
